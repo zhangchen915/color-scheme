@@ -1,0 +1,11 @@
+{
+  "name": "color-scheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel test/test.html"
+  },
+  "author": "zhangchen915",
+  "license": "ISC"
+}
